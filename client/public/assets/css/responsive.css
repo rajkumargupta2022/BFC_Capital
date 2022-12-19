@@ -1,0 +1,288 @@
+@media screen and  (max-width: 768px) {
+  .plr-60{
+    padding: 0 !important;
+  }
+  .custom-shadow{
+    border-radius: 0px  !important;
+
+  }
+  .main-menu {
+    height: 380px !important;
+  }
+  
+  .main-menu li{
+    padding: 8px 0px !important;
+  }
+  li.menu_has_children:after {
+    right: 20px !important;
+  }
+  .sub-menu{
+    left: 10px !important;
+  }
+  .sub-menu li a{
+    padding: 4px 20px !important;
+    font-size: 12px !important;
+  }
+
+  .profile-name {
+    font-size: 16px;
+    color: #616161;
+    padding-left: 16px;
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    left: 65px;
+    margin-top: 15px;
+}
+  
+}
+
+@media screen and  (max-width: 992px) {
+ 
+  .plr-60{
+    padding: 0 !important;
+  }
+  .custom-shadow{
+    border-radius: 0px  !important;
+
+  }
+  .main-menu {
+    height: 380px !important;
+  }
+  
+  .main-menu li{
+    padding: 8px 0px !important;
+  }
+  li.menu_has_children:after {
+    right: 20px !important;
+  }
+  .sub-menu{
+    left: 10px !important;
+  }
+  .sub-menu li a{
+    padding: 4px 20px !important;
+    font-size: 12px !important;
+  }
+  .home-header .carousel {
+    display: none !important;
+  }
+  .header-description{
+    padding-right: 0px !important;
+    font-size: 16px !important;
+  }
+
+  .sub-title, .header-title {
+    font-size: 38px;
+  }
+  .home-header{
+    height: auto !important;
+    padding-bottom: 40px !important;
+  }
+  .bfc-advantage-top-text{
+    font-size: 1.6rem;
+  }
+  .circle-program-top-text{
+    font-size: 1.6rem;
+  }
+  .btn3{
+    padding: 10px 34px !important;
+    font-size: 14px !important;
+  }
+  .btn{
+    margin-top: 20px;
+  }
+
+  .download-inner .button .btn{
+    margin-top: 20px;
+    padding: 16px 16px !important;
+  }
+  .sidebar-content{
+    background-position-y: 35px !important;
+    padding-top: 60px !important;
+    height: auto !important;
+    padding-bottom: 60px !important;
+  }
+  .cred-img img {
+    max-width: 145px;
+    padding-top: 14px;
+}
+.content-section p {
+  font-size: 15px;
+}
+.cred-text h5{
+  font-size: 15px;
+}
+.testi-card {
+  padding: 20px 15px 4px 15px !important;
+  border-radius: 20px !important;
+  text-align: justify;
+}
+.post-txt {
+  font-size: 15px;
+}
+.content-section {
+  height: 2260px !important;
+}
+.stiky {
+  padding: 40px 0px;
+}
+.circle-program-content {
+  width: 100% !important;
+}
+.circle-program-desc p {
+  font-size: 14px;
+}
+.circle-program-desc h2 {
+  font-size: 21px;
+}
+.blog-program-top-text, .fqa-top-text {
+  font-size: 1.8rem;
+}
+.accordion-body {
+  font-size: 14px;
+}
+.accordion-item:first-of-type .accordion-button, .accordion-header button {
+  font-size: 15px;
+}
+.contact-image img{
+  padding-bottom: 50px;
+}
+.contact {
+  padding: 40px 0;
+}
+.button{
+display: flex;
+}
+.shadowc {
+  border-radius: 30px 30px;
+  padding: 35px 0px;
+
+}
+.mutual-fund-faq .accordion-item:first-of-type .accordion-button, .mutual-fund-faq .accordion-header button {
+  font-size: 16px;
+}
+.mutual-fund-faq .accordion-body {
+  font-size: 15px;
+}
+.mutual-fund-faq-content {
+  padding:0px;
+}
+.mutual-fund-faq .accordion-header button .faqs_greenDot {
+  width: 8px;
+  height: 8px;
+}
+#mobile
+{
+  display:block!important;
+}
+#desktop
+{
+  display:none!important;
+}
+.faqs_greenDot{
+  display: none;
+}
+.plr-5 {
+  padding-right: 1rem!important;
+  padding-left: 1rem!important;
+}
+.vision-text{
+  padding-left: 0px;
+}
+.download-section-img img {
+  max-width: 100% !important;
+}
+/* .download-btn-img {
+  max-width: 100% !important;
+} */
+.download-text{
+  display: none;
+}
+.download-apps {
+  padding: 0px !important;
+}
+.android-btn{
+  padding-right: 10px;
+}
+.download-btn .header-text h5{
+  font-size: 14px;
+  font-weight: 700;
+  padding-bottom: 8px;
+}
+.first-section-text h2{
+  font-size: 24px;
+}
+.download-app{
+  padding: 100px 0;
+}
+.txt-center{
+  justify-content: start !important;
+}
+.col{
+    flex:none !important;
+}
+
+.profile-name {
+  font-size: 16px;
+  color: #616161;
+  padding-left: 16px;
+}
+
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  left: 65px;
+  margin-top: 15px;
+}
+.footer-logo .text-logo img{
+  max-width: 100% !important;
+}
+.mutual-fund-text p{
+  font-size: 16px;
+}
+.result-content-shadow-pro{
+  margin-right: -14px;
+}
+.new-btn1{
+  padding: 8px 34px !important;
+}
+.text-xs-center
+{
+  text-align: center;
+}
+.logo{
+  max-width: 200px !important;
+  }
+  .btn-custom{
+    padding: 8px 34px !important;
+    font-size: 14px;
+  }
+
+/*   mobile view navbar */
+ .navbar-collapse {
+    position: fixed;
+    top: 68px;
+    bottom: 0;
+    left: 100%;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    overflow-y: auto;
+    visibility: hidden;
+    background-color: white;
+/*      transition: all 0.5s ease; */
+    -webkit-transition: visibility 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out;
+    transition: visibility 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out;
+    transition: visibility 0.4s ease-in-out, transform 0.4s ease-in-out;
+    transition: visibility 0.4s ease-in-out, transform 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out;
+  }
+  .navbar-collapse.show {
+    visibility: visible;
+    -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+}
